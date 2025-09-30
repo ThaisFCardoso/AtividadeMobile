@@ -26,7 +26,7 @@ Antes de começar, você precisa ter instalado:
 
 ## 🚀 Como Explorar
 
-1. Baixe o meu projeto
+1. Baixe o meu projeto "Download zip"
 2. Abra no seu VScode
 3. Abra o seu terminal
 4. Digite "dart run nomedaativida.dart"

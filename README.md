@@ -29,5 +29,5 @@ Antes de começar, você precisa ter instalado:
 1. Baixe o meu projeto "Download zip"
 2. Abra no seu VScode
 3. Abra o seu terminal
-4. Digite "dart run nomedaativida.dart"
+4. Digite "dart run **caminhodaatividade** "
 5. E tá pronto o sorvetinho, aproveite 🌸
